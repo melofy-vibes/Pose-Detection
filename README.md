@@ -91,7 +91,7 @@ Pose-Detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/melofy-vibes/pose-detection.git
+git clone https://github.com/melofy-vibes/Pose-Detection.git
 cd pose-detection
 ```
 
