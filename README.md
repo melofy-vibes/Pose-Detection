@@ -66,10 +66,6 @@ Pose-Detection/
 │
 ├── Vision_pose_detection_img.ipynb
 ├── vision_pose_detection.ipynb
-│
-├── model/
-│   └── yolov8n.pt
-│
 ├── assets/
 │   ├── demo.gif
 │   │
