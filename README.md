@@ -3,7 +3,7 @@
 A computer vision project for detecting whether people are **sitting** or **standing** in images, videos, and live webcam streams using **YOLOv8** and **MediaPipe Pose**.
 
 <p align="center">
-  <img src="assets/demo.gif" width="800">
+  <img src="assets/demo.gif">
   <br>
   <em>Real-time Sitting and Standing Detection</em>
 </p>
