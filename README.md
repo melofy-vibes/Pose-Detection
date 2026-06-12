@@ -66,6 +66,7 @@ Pose-Detection/
 │
 ├── Vision_pose_detection_img.ipynb
 ├── vision_pose_detection.ipynb
+|
 ├── assets/
 │   ├── demo.gif
 │   │
